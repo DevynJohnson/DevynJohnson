@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevynJohnson
 - 👀 I’m interested in web design and application development.
 - 🌱 I’m currently enrolled in a Full Stack Coding Bootcamp.
-- 💞️ I’m looking to collaborate on projects that will help me practice basic coding skills.
+- 💞️ I’m looking to collaborate on projects that will help me practice and develop my coding skills.
 - 📫 How to reach me: dljohnson1313@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy playing ice hockey in my free time
