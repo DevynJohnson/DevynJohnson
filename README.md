@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DevynJohnson
 - 👀 I’m interested in web design and application development.
-- 🌱 I’m currently enrolled in a Full Stack Coding Bootcamp.
-- 💞️ I’m looking to collaborate on projects that will help me practice and develop my coding skills.
+- 🌱 Check out my work on my <a href="https://devynjohnson.me">portfolio</a>.
+- 💞️ I’m looking to collaborate on projects that will help make a difference in peoples' lives.
 - 📫 How to reach me: dljohnson1313@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy playing ice hockey in my free time
+- ⚡ Fun fact: I enjoy watching and playing ice hockey when I'm not working on projects!
 
 <!---
 DevynJohnson/DevynJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
